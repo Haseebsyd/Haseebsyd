@@ -1,4 +1,4 @@
-- 💬 Second year Information Technology Innovation & Design student at Conestoga College
+- 💬 Second year Applied Computer Sciences student in Information Technology Innovation & Design at Conestoga College
 - 🔭 I’m currently working on finding a C0-OP position commencing May 2023
 - 🌱 I’m currently learning Java & SQL
 - 👯 I’m looking to collaborate on any project that might interest me :)
