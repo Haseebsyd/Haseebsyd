@@ -1,3 +1,4 @@
+- 📁 Check out my portfolio to see more about me!! --> https://haseebsyd.github.io/
 - 💬 Second year Applied Computer Sciences student in Information Technology Innovation & Design at Conestoga College
 - 🔭 I’m currently working on finding a C0-OP position commencing May 2023
 - 🌱 I’m currently learning Java & SQL
